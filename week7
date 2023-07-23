@@ -1,0 +1,15 @@
+<html>
+    <head>
+<title>Image Exercise</title>
+    </head>
+    <body>
+        <!--inserting thumbnail-->
+        <a href="PHOTO/johnny_depp.jpg"> <img src="PHOTO/jd.jpg"></a>
+
+        <!--Image Maping-->
+        <img src="PHOTO/malaysia-map.jpg"usemap="#malaysia-map.jpg">
+
+        <map name="malaysia-map"></map>
+        <area target="_blank" alt="map malaysia" href="https://nsembilan.uitm.edu.my/rembau/"
+        shape="rect" coords="750 750 750 "
+    </body>
